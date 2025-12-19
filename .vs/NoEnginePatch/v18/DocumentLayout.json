@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\",
+  "WorkspaceRootPath": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|c:\\users\\fuwei\\desktop\\unlimited weapon\\com.nikkorap.unrestrictedweapons_1.3.0\\myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|solutionrelative:myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|JetEnginePatch.csproj|C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|JetEnginePatch.csproj|solutionrelative:myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|c:\\users\\fuwei\\source\\repos\\noenginepatch\\myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|solutionrelative:myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|NoEnginePatch.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|JetEnginePatch.csproj|C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBBB13E-DD87-4958-9D43-F0A9D94214DF}|JetEnginePatch.csproj|solutionrelative:myplugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MyPluginInfo.cs",
-              "DocumentMoniker": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\MyPluginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\MyPluginInfo.cs",
               "RelativeDocumentMoniker": "MyPluginInfo.cs",
-              "ToolTip": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\MyPluginInfo.cs",
+              "ToolTip": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\MyPluginInfo.cs",
               "RelativeToolTip": "MyPluginInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,23 +43,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\AssemblyInfo.cs",
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T12:24:05.158Z"
+              "WhenOpened": "2025-12-19T12:24:05.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyPluginInfo.cs",
-              "DocumentMoniker": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\MyPluginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\MyPluginInfo.cs",
               "RelativeDocumentMoniker": "MyPluginInfo.cs",
-              "ToolTip": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\MyPluginInfo.cs",
+              "ToolTip": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\MyPluginInfo.cs",
               "RelativeToolTip": "MyPluginInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,15 +68,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
-              "ToolTip": "C:\\Users\\fuwei\\Desktop\\unlimited weapon\\com.nikkorap.UnrestrictedWeapons_1.3.0\\Plugin.cs",
+              "ToolTip": "C:\\Users\\fuwei\\source\\repos\\NoEnginePatch\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAYwGoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:32:35.882Z"
+              "WhenOpened": "2025-12-15T15:32:35.882Z",
+              "EditorCaption": ""
             }
           ]
         }
